@@ -1,2 +1,3 @@
 include ':utils'
 rootProject.name = "JitpackDemo"
+include ':spdhdemo'

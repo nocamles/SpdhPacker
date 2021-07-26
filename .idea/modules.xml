@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JitpackDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/JitpackDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spdhdemo/JitpackDemo.spdhdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/spdhdemo/JitpackDemo.spdhdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/JitpackDemo.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/JitpackDemo.utils.iml" />
     </modules>
   </component>
